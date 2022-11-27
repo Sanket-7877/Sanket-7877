@@ -2,7 +2,9 @@
 - 👀 I’m interested in SoftwareDevelopment, DevOps,Cybersecurity.
 -◇◇  Consistently working to achieve goals.
 - 🌱 I’m currently learning Computer Engineering and Honors in CyberSecurity.
-- 📫 Follow me on inst@gr@m -- sanket_pangavhane
+- 📫 Follow me on
+     LinkedIn -https://www.linkedin.com/in/sanket-pangavhane-a2b543211
+     inst@gr@m -- sanket_pangavhane
 
 
 <!---
